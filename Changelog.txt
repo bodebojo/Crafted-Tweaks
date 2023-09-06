@@ -1,3 +1,4 @@
 - Added Advancement tab
 - Added reverse wood stonecutting
 - Fixed namespace errors
+- Fixed capital letters in advancement tab
