@@ -7,6 +7,7 @@
         "minecraft:birch_pressure_plate",
         "minecraft:birch_slab",
         "minecraft:birch_stairs",
-        "minecraft:birch_trapdoor"
+        "minecraft:birch_trapdoor",
+        "minecraft:birch_sign"
     ]
 }

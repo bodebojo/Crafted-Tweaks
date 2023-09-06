@@ -7,6 +7,7 @@
         "minecraft:acacia_pressure_plate",
         "minecraft:acacia_slab",
         "minecraft:acacia_stairs",
-        "minecraft:acacia_trapdoor"
+        "minecraft:acacia_trapdoor",
+        "minecraft:acacia_sign"
     ]
 }

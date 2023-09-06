@@ -7,6 +7,8 @@
         "minecraft:spruce_pressure_plate",
         "minecraft:spruce_slab",
         "minecraft:spruce_stairs",
-        "minecraft:spruce_trapdoor"
+        "minecraft:spruce_trapdoor",
+        "minecraft:spruce_sign"
+
     ]
 }
