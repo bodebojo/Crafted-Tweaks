@@ -1,8 +1,8 @@
 {
     "type": "minecraft:stonecutting",
     "ingredient": {
-        "tag": "crafted_tweaks:logs/spruce"
+        "tag": "crafted_tweaks:logs/acacia"
     },
-    "result": "minecraft:spruce_planks",
+    "result": "minecraft:acacia_planks",
     "count": 1
 }
