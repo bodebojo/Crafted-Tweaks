@@ -1,0 +1,21 @@
+-----MAIN WEBSITES TO USE----- 
+ 
+https://mcstacker.net/ - Use this to generate vanilla commands that may require a bit more in-depth information! 
+ 
+https://misode.github.io/ - Generate JSON files with an easy to understand UI and plenty of customization! 
+ 
+https://minecraftjson.com/ - Create tellraw text with also simplified UI, but still allowing plenty of possibilities! 
+ 
+https://minecraft.tools/ - Minecraft tools helps with miscellaneous affairs, such as color and book generation! Do be warned that the custom crafting module is outdated though. 
+ 
+https://crafting.thedestruc7i0n.ca/ - Use this website for custom crafting, straightforward and easy to do! 
+ 
+https://discord.gg/QAFXFtZ - Join the minecraft commands discord! They have a quick in-out system to answer any questions you might have if you're stuck. 
+ 
+-----ALTERNATIVE WEBSITES TO USE----- 
+ 
+https://amaury.carrade.eu/minecraft/loot_tables - If loot tables seem jarring, this website may be a possible alternative with simpler UI. 
+ 
+https://advancements.thedestruc7i0n.ca/ - This is also another alternative to creating your own custom advancements. 
+ 
+https://discord.gg/nGsTj6FFN3 - Join the legitimoose discord server, the origin of the datapack creator. It's a small community, but feel free to chat with us! 

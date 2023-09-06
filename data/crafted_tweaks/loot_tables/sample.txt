@@ -1,0 +1,1 @@
+//Go to https://misode.github.io/loot-table/ to generate a custom loot table! 

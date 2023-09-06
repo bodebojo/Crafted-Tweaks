@@ -1,0 +1,25 @@
+{
+    "display": {
+        "title": {
+            "text": "Deepslate as Stone.",
+            "color": "white"
+        },
+        "description": {
+            "text": "You can now use deepslate in recipes that normally require stone.",
+            "color": "gold"
+        },
+        "icon": {
+            "item": "minecraft:deepslate"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "parent": "crafted_tweaks:root"
+}
