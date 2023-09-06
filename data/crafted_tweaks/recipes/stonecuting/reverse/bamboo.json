@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "crafted_tweaks:variants/bamboo_plank_variants"
+    },
+    "result": "minecraft:bamboo_planks",
+    "count": 1
+}

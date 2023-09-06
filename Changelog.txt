@@ -1,4 +1,6 @@
 - Added Advancement tab
 - Added reverse wood stonecutting
+- Added log tags
 - Fixed namespace errors
 - Fixed capital letters in advancement tab
+- Fixed not all nether wood recipes being present

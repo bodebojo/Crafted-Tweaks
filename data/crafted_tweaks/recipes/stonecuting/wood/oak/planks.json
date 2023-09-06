@@ -1,7 +1,7 @@
 {
     "type": "minecraft:stonecutting",
     "ingredient": {
-        "tag": "crafted_tweaks:variants/oak_plank_variants"
+        "tag": "crafted_tweaks:logs/oak"
     },
     "result": "minecraft:oak_planks",
     "count": 1

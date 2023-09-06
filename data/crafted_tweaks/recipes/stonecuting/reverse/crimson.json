@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "crafted_tweaks:variants/crimson_plank_variants"
+    },
+    "result": "minecraft:crimson_planks",
+    "count": 1
+}
