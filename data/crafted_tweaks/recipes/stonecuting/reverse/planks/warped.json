@@ -1,7 +1,7 @@
 {
     "type": "minecraft:stonecutting",
     "ingredient": {
-        "tag": "crafted_tweaks:variants/warped_plank_variants"
+        "tag": "crafted_tweaks:stonecuttable/warped"
     },
     "result": "minecraft:warped_planks",
     "count": 1

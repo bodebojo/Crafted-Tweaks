@@ -1,7 +1,7 @@
 {
     "type": "minecraft:stonecutting",
     "ingredient": {
-        "tag": "crafted_tweaks:variants/spruce_plank_variants"
+        "tag": "crafted_tweaks:stonecuttable/spruce"
     },
     "result": "minecraft:spruce_planks",
     "count": 1

@@ -1,2 +1,3 @@
 VanillaTweaks
+Quark
 XtraDavido

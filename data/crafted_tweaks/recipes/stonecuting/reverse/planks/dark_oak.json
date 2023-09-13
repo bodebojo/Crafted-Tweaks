@@ -1,7 +1,7 @@
 {
     "type": "minecraft:stonecutting",
     "ingredient": {
-        "tag": "crafted_tweaks:variants/dark_oak_plank_variants"
+        "tag": "crafted_tweaks:stonecuttable/dark_oak"
     },
     "result": "minecraft:dark_oak_planks",
     "count": 1

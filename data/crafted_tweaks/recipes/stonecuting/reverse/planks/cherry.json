@@ -1,7 +1,7 @@
 {
     "type": "minecraft:stonecutting",
     "ingredient": {
-        "tag": "crafted_tweaks:variants/cherry_plank_variants"
+        "tag": "crafted_tweaks:stonecuttable/cherry"
     },
     "result": "minecraft:cherry_planks",
     "count": 1
