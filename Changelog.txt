@@ -6,3 +6,4 @@
 - Fixed capital letters in advancement tab
 - Fixed not all nether wood recipes being present
 - Reverse craft minecarts in stonecutter
+- Switched to tags
