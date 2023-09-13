@@ -1,7 +1,7 @@
 {
     "type": "minecraft:stonecutting",
     "ingredient": {
-        "tag": "crafted_tweaks:stonecuttable/birch"
+        "tag": "crafted_tweaks:stonecuttable/wood/birch"
     },
     "result": "minecraft:birch_planks",
     "count": 1

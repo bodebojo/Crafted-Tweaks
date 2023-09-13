@@ -1,7 +1,7 @@
 {
     "type": "minecraft:stonecutting",
     "ingredient": {
-        "tag": "crafted_tweaks:stonecuttable/jungle"
+        "tag": "crafted_tweaks:stonecuttable/wood/jungle"
     },
     "result": "minecraft:jungle_planks",
     "count": 1

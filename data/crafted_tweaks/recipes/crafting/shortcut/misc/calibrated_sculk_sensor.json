@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " a ",
+        "aSa",
+        " s "
+    ],
+    "key": {
+        "s": {
+            "item": "minecraft:sculk"
+        },
+        "S": {
+            "item": "minecraft:sculk_vein"
+        },
+        "a": {
+            "item": "minecraft:amethyst_shard"
+        }
+    },
+    "result": {
+        "item": "minecraft:calibrated_sculk_sensor",
+        "count": 1
+    }
+}

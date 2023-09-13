@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "   ",
+        " s ",
+        " S "
+    ],
+    "key": {
+        "s": {
+            "item": "minecraft:sculk_vein"
+        },
+        "S": {
+            "item": "minecraft:sculk"
+        }
+    },
+    "result": {
+        "item": "minecraft:sculk_sensor",
+        "count": 1
+    }
+}

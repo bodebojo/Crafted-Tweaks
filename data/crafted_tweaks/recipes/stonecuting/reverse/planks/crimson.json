@@ -1,7 +1,7 @@
 {
     "type": "minecraft:stonecutting",
     "ingredient": {
-        "tag": "crafted_tweaks:stonecuttable/crimson"
+        "tag": "crafted_tweaks:stonecuttable/wood/crimson"
     },
     "result": "minecraft:crimson_planks",
     "count": 1
