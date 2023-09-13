@@ -5,7 +5,7 @@
     "D": {
       "item": "minecraft:diamond"
     },
-    "B": {
+    "C": {
       "item": "minecraft:cobbled_deepslate"
     },
     "T": {
@@ -14,7 +14,7 @@
   },
   "pattern": [
     " T ",
-    "DBD",
+    "DCD",
     "DDD"
   ],
   "result": {

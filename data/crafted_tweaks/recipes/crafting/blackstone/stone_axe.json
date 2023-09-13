@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "cc ",
+        "cs ",
+        " s "
+    ],
+    "key": {
+        "c": {
+            "item": "minecraft:blackstone"
+        },
+        "s": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "minecraft:stone_axe",
+        "count": 1
+    }
+}

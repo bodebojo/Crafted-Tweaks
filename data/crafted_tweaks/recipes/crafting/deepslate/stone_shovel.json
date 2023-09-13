@@ -1,17 +1,20 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "###",
-        "# #",
-        "###"
+        " c ",
+        " s ",
+        " s "
     ],
     "key": {
-        "#": {
+        "c": {
             "item": "minecraft:cobbled_deepslate"
+        },
+        "s": {
+            "item": "minecraft:stick"
         }
     },
     "result": {
-        "item": "minecraft:dropper",
+        "item": "minecraft:stone_shovel",
         "count": 1
     }
 }

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " r ",
+        "rqr",
+        "ddd"
+    ],
+    "key": {
+        "r": {
+            "item": "minecraft:redstone_torch"
+        },
+        "q": {
+            "item": "minecraft:quartz"
+        },
+        "d": {
+            "item": "minecraft:blackstone"
+        }
+    },
+    "result": {
+        "item": "minecraft:comparator",
+        "count": 1
+    }
+}

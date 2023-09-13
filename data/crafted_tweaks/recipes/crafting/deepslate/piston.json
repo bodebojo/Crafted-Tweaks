@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ooo",
+        "cic",
+        "crc"
+    ],
+    "key": {
+        "o": {},
+        "c": {
+            "item": "minecraft:cobbled_deepslate"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "r": {
+            "item": "minecraft:redstone"
+        }
+    },
+    "result": {
+        "item": "minecraft:piston",
+        "count": 1
+    }
+}

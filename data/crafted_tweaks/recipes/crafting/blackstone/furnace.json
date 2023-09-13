@@ -7,11 +7,11 @@
     ],
     "key": {
         "#": {
-            "item": "minecraft:cobbled_deepslate"
+            "item": "minecraft:blackstone"
         }
     },
     "result": {
-        "item": "minecraft:dropper",
+        "item": "minecraft:furnace",
         "count": 1
     }
 }

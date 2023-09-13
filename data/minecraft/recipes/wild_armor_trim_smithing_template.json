@@ -5,7 +5,7 @@
     "D": {
       "item": "minecraft:diamond"
     },
-    "B": {
+    "M": {
       "item": "minecraft:mossy_cobblestone"
     },
     "T": {
@@ -14,7 +14,7 @@
   },
   "pattern": [
     " T ",
-    "DBD",
+    "DMD",
     "DDD"
   ],
   "result": {

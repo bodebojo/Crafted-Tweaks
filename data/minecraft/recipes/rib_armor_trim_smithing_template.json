@@ -5,7 +5,7 @@
     "D": {
       "item": "minecraft:diamond"
     },
-    "B": {
+    "N": {
       "item": "minecraft:netherrack"
     },
     "T": {
@@ -14,7 +14,7 @@
   },
   "pattern": [
     " T ",
-    "DBD",
+    "DND",
     "DDD"
   ],
   "result": {
