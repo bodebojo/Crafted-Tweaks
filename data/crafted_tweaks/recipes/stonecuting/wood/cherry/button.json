@@ -1,7 +1,7 @@
 {
     "type": "minecraft:stonecutting",
     "ingredient": {
-        "item": "minecraft:cherry_planks"
+        "tag": "crafted_tweaks:stonecuttable/wood/cherry"
     },
     "result": "minecraft:cherry_button",
     "count": 1

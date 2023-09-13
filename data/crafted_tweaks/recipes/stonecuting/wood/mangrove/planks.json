@@ -1,7 +1,7 @@
 {
     "type": "minecraft:stonecutting",
     "ingredient": {
-        "tag": "crafted_tweaks:logs/mangrove"
+        "tag": "crafted_tweaks:stonecuttable/wood/mangrove"
     },
     "result": "minecraft:mangrove_planks",
     "count": 1

@@ -1,7 +1,7 @@
 {
     "type": "minecraft:stonecutting",
     "ingredient": {
-        "item": "minecraft:bamboo_mosaic"
+        "tag": "crafted_tweaks:stonecuttable/wood/bamboo"
     },
     "result": "minecraft:bamboo_mosaic_stairs",
     "count": 1

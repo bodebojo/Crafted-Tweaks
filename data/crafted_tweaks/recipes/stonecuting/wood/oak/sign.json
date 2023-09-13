@@ -1,7 +1,7 @@
 {
     "type": "minecraft:stonecutting",
     "ingredient": {
-        "item": "minecraft:oak_planks"
+        "tag": "crafted_tweaks:stonecuttable/wood/oak"
     },
     "result": "minecraft:oak_sign",
     "count": 1

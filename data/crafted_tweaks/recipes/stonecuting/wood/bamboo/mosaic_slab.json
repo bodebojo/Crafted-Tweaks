@@ -3,6 +3,6 @@
     "ingredient": {
         "tag": "crafted_tweaks:stonecuttable/wood/bamboo"
     },
-    "result": "minecraft:bamboo_planks",
+    "result": "minecraft:bamboo_mosaic_slab",
     "count": 1
 }

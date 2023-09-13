@@ -1,7 +1,7 @@
 {
     "type": "minecraft:stonecutting",
     "ingredient": {
-        "item": "minecraft:acacia_planks"
+        "tag": "crafted_tweaks:stonecuttable/wood/acacia"
     },
     "result": "minecraft:acacia_sign",
     "count": 1

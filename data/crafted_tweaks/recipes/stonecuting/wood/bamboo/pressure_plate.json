@@ -1,7 +1,7 @@
 {
     "type": "minecraft:stonecutting",
     "ingredient": {
-        "item": "minecraft:bamboo_planks"
+        "tag": "crafted_tweaks:stonecuttable/wood/bamboo"
     },
     "result": "minecraft:bamboo_pressure_plate",
     "count": 1

@@ -1,7 +1,7 @@
 {
     "type": "minecraft:stonecutting",
     "ingredient": {
-        "item": "minecraft:birch_planks"
+        "tag": "crafted_tweaks:stonecuttable/wood/birch"
     },
     "result": "minecraft:birch_fence_gate",
     "count": 1
