@@ -3,11 +3,14 @@
     "pattern": [
         "###",
         "# #",
-        "###"
+        "#R#"
     ],
     "key": {
         "#": {
             "item": "minecraft:blackstone"
+        },
+        "R": {
+            "item": "minecraft:redstone"
         }
     },
     "result": {

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "   ",
+        " i ",
+        "sss"
+    ],
+    "key": {
+        "d": {
+            "item": "minecraft:deepslate"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "result": {
+        "item": "minecraft:stonecutter",
+        "count": 0
+    }
+}

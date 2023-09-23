@@ -3,11 +3,14 @@
     "pattern": [
         "###",
         "# #",
-        "###"
+        "#R#"
     ],
     "key": {
         "#": {
             "item": "minecraft:cobbled_deepslate"
+        },
+        "R": {
+            "item": "minecraft:redstone"
         }
     },
     "result": {

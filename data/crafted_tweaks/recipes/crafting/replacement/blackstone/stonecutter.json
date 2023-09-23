@@ -1,20 +1,20 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "###",
-        "# #",
-        "#R#"
+        "   ",
+        " i ",
+        "sss"
     ],
     "key": {
-        "#": {
+        "d": {
             "item": "minecraft:blackstone"
         },
-        "R": {
-            "item": "minecraft:redstone"
+        "i": {
+            "item": "minecraft:iron_ingot"
         }
     },
     "result": {
-        "item": "minecraft:dropper",
+        "item": "minecraft:stonecutter",
         "count": 1
     }
 }
