@@ -7,3 +7,4 @@
 - Fixed not all nether wood recipes being present
 - Reverse craft minecarts in stonecutter
 - Switched to tags
+- Synced XtraDavido
