@@ -5,6 +5,6 @@
 - Fixed namespace errors
 - Fixed capital letters in advancement tab
 - Fixed not all nether wood recipes being present
+- Fixed deepslate & blackstone dropper recipes
 - Reverse craft minecarts in stonecutter
-- Switched to tags
-- Synced XtraDavido
+- Modified minecraft tags
