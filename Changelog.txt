@@ -1,1 +1,2 @@
 - Added categories to all recipes
+- Added tag in stone button recipe
