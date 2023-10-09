@@ -1,2 +1,5 @@
-- Added categories to all recipes
-- Added tag in stone button recipe
+- Added Rooted Dirt Recipe 
+- Added Bundle Recipe
+- Added various Dye Recipes
+- Added Leather Smelting Recipe
+- Fixed Iron to Diamond Recipes

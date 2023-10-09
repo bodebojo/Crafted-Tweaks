@@ -10,6 +10,6 @@
     "item": "minecraft:diamond_hoe"
   },
   "template": {
-    "item": "minecraft:netherite_upgrade_smithing_template"
+    "tag": "minecraft:trim_templates"
   }
 }
