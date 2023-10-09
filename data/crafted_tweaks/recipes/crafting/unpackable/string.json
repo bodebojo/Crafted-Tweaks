@@ -1,16 +1,11 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "category": "building",
-    "pattern": [
-        "w",
-        "",
-        ""
-    ],
-    "key": {
-        "w": {
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
             "tag": "minecraft:wool"
         }
-    },
+    ],
     "result": {
         "item": "minecraft:string",
         "count": 4
