@@ -1,1 +1,7 @@
 - Fixed Wool unpacking Recipe
+- Added Default Shulkerbox Recipe
+- Added Leather Recipe
+- Added Music Disc 11 Recipe
+- Added various Dye Recipes
+- Added Charcoal from Food Recipe
+- Added Dirt Path Recipe

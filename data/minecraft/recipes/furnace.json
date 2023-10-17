@@ -1,24 +1,18 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "redstone",
+  "category": "misc",
   "key": {
     "#": {
       "tag": "minecraft:cobblestone_crafting_materials"
-    },
-    "Q": {
-      "item": "minecraft:quartz"
-    },
-    "R": {
-      "item": "minecraft:redstone"
     }
   },
   "pattern": [
     "###",
-    "RRQ",
+    "# #",
     "###"
   ],
   "result": {
-    "item": "minecraft:observer"
+    "item": "minecraft:furnace"
   },
   "show_notification": true
 }
