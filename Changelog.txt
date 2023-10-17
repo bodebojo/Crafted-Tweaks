@@ -1,4 +1,3 @@
-- Fixed Wool unpacking Recipe
 - Added Default Shulkerbox Recipe
 - Added Leather Recipe
 - Added Music Disc 11 Recipe
