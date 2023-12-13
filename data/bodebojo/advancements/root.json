@@ -1,0 +1,19 @@
+    { 
+"display": { 
+	"icon": { 
+		"item": "minecraft:player_head", 
+		"nbt": "{SkullOwner:{Id:[I;0,0,0,0],Properties:{textures:[{Value:'e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTI3NzhhMmZjYjU3Y2UzNjEzODhlN2Y5Mjg1ZWU1YWYwOTU4MWU2NDIyZDFlOWE1YzUzZTYxMTIxMjQ3NDBmZCJ9fX0='}]}}}" 
+	}, 
+	"title": "Bodebojo's Packs", 
+	"frame": "challenge", 
+	"description": ["",{"text":"All datapacks by Bodebojo\n","color":"gold"},{"text":"youtube.com/@bodebojo","color":"yellow"}], 
+	"background": "minecraft:textures/block/deepslate.png", 
+	"show_toast": false, 
+	"announce_to_chat": false 
+}, 
+"criteria": { 
+	"tick": { 
+		"trigger": "minecraft:tick" 
+	} 
+} 
+} 

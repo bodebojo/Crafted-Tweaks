@@ -6,3 +6,6 @@
 - Added Dirt Path Recipe
 - Added Lime Dye Recipe
 - Modified Hanging Sign Recipes to use Planks instead of Stripped Logs
+- Removed unnecessary files
+- Added Bodebojo root advancement
+- Added more advancements for different crafting categories
