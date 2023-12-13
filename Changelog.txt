@@ -5,3 +5,4 @@
 - Added Charcoal from Food Recipe
 - Added Dirt Path Recipe
 - Added Lime Dye Recipe
+- Modified Hanging Sign Recipes to use Planks instead of Stripped Logs
