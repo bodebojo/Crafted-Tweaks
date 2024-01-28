@@ -5,7 +5,7 @@
             "color": "white"
         },
         "description": {
-            "text": "You can now unpack wool into string and blue ice into packed ice into normal ice",
+            "text": "You can unpack wool into string and blue ice into packed ice into normal ice",
             "color": "green"
         },
         "icon": {
