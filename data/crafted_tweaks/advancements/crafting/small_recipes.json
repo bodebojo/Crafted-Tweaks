@@ -1,15 +1,15 @@
 {
     "display": {
         "title": {
-            "text": "Bulk Smelting",
+            "text": "Small Recipes.",
             "color": "white"
         },
         "description": {
-            "text": "You can now smelt raw blocks in furnaces.",
-            "color": "gold"
+            "text": "You can now craft some 3x1 recipes in the 2x2 crafting grid",
+            "color": "green"
         },
         "icon": {
-            "item": "minecraft:raw_gold_block"
+            "item": "minecraft:bread"
         },
         "frame": "task",
         "show_toast": false,
@@ -21,5 +21,5 @@
             "trigger": "minecraft:tick"
         }
     },
-    "parent": "crafted_tweaks:root"
+    "parent": "crafted_tweaks:crafting"
 }

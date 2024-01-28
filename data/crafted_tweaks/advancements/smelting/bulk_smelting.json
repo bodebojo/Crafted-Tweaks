@@ -1,15 +1,15 @@
 {
     "display": {
         "title": {
-            "text": "Deepslate as Stone.",
+            "text": "Bulk Smelting",
             "color": "white"
         },
         "description": {
-            "text": "You can now use deepslate in recipes that normally require stone.",
-            "color": "gold"
+            "text": "You can now smelt raw blocks in Furnaces",
+            "color": "green"
         },
         "icon": {
-            "item": "minecraft:deepslate"
+            "item": "minecraft:raw_gold_block"
         },
         "frame": "task",
         "show_toast": false,
@@ -21,5 +21,5 @@
             "trigger": "minecraft:tick"
         }
     },
-    "parent": "crafted_tweaks:root"
+    "parent": "crafted_tweaks:smelting"
 }

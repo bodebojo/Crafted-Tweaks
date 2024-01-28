@@ -1,15 +1,15 @@
 {
     "display": {
         "title": {
-            "text": "Shortcut Recipes.",
+            "text": "Smooth Smelting",
             "color": "white"
         },
         "description": {
-            "text": "You can now craft blocks and items that require multiple steps in one step by combining crafting steps.",
-            "color": "gold"
+            "text": "You can now smelt blocks to their smooth variants",
+            "color": "green"
         },
         "icon": {
-            "item": "minecraft:dispenser"
+            "item": "minecraft:smooth_quartz"
         },
         "frame": "task",
         "show_toast": false,

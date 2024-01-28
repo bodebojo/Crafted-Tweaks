@@ -1,15 +1,15 @@
 {
     "display": {
         "title": {
-            "text": "Crafting",
+            "text": "Smelting",
             "color": "white"
         },
         "description": {
-            "text": "Crafting Recipes",
+            "text": "Smelting Recipes",
             "color": "gold"
         },
         "icon": {
-            "item": "minecraft:crafting_table"
+            "item": "minecraft:furnace"
         },
         "frame": "task",
         "show_toast": false,

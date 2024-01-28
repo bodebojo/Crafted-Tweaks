@@ -1,15 +1,15 @@
 {
     "display": {
         "title": {
-            "text": "Craft Sculk",
+            "text": "Blackstone as Stone",
             "color": "white"
         },
         "description": {
-            "text": "You can now craft sculk related blocks.",
-            "color": "gold"
+            "text": "You can now use Blackstone in recipes that normally require Stone",
+            "color": "green"
         },
         "icon": {
-            "item": "minecraft:sculk"
+            "item": "minecraft:blackstone"
         },
         "frame": "task",
         "show_toast": false,
@@ -21,5 +21,5 @@
             "trigger": "minecraft:tick"
         }
     },
-    "parent": "crafted_tweaks:root"
+    "parent": "crafted_tweaks:crafting"
 }

@@ -1,15 +1,15 @@
 {
     "display": {
         "title": {
-            "text": "Wood Crafting",
+            "text": "Deepslate as Stone.",
             "color": "white"
         },
         "description": {
-            "text": "You can now use logs, wood, and planks in a Stonecutter.",
-            "color": "gold"
+            "text": "You can now use Deepslate in recipes that normally require Stone",
+            "color": "green"
         },
         "icon": {
-            "item": "minecraft:spruce_planks"
+            "item": "minecraft:deepslate"
         },
         "frame": "task",
         "show_toast": false,
@@ -21,5 +21,5 @@
             "trigger": "minecraft:tick"
         }
     },
-    "parent": "crafted_tweaks:root"
+    "parent": "crafted_tweaks:crafting"
 }

@@ -1,15 +1,15 @@
 {
     "display": {
         "title": {
-            "text": "Small Recipes.",
+            "text": "Shortcut Recipes.",
             "color": "white"
         },
         "description": {
-            "text": "You can now craft some 3x1 recipes in the 2x2 crafting grid.",
-            "color": "gold"
+            "text": "You can now craft blocks and items that require multiple steps in one step by combining crafting steps",
+            "color": "green"
         },
         "icon": {
-            "item": "minecraft:bread"
+            "item": "minecraft:dispenser"
         },
         "frame": "task",
         "show_toast": false,
@@ -21,5 +21,5 @@
             "trigger": "minecraft:tick"
         }
     },
-    "parent": "crafted_tweaks:root"
+    "parent": "crafted_tweaks:crafting"
 }
