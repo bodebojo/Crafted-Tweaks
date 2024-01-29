@@ -9,7 +9,7 @@
             "color": "green"
         },
         "icon": {
-            "item": "minecraft:raw_gold_block"
+            "item": "minecraft:dried_kelp"
         },
         "frame": "task",
         "show_toast": false,
@@ -21,5 +21,5 @@
             "trigger": "minecraft:tick"
         }
     },
-    "parent": "crafted_tweaks:blasting"
+    "parent": "crafted_tweaks:blasting/misc"
 }

@@ -1,15 +1,15 @@
 {
     "display": {
         "title": {
-            "text": "Misc",
+            "text": "Shortcut",
             "color": "white"
         },
         "description": {
-            "text": "miscellaneous recipes",
+            "text": "Shortcut crafting recipes",
             "color": "green"
         },
         "icon": {
-            "item": "minecraft:leather"
+            "item": "minecraft:tnt_minecraft"
         },
         "frame": "task",
         "show_toast": false,

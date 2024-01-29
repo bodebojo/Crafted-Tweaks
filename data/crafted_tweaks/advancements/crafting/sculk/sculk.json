@@ -1,0 +1,25 @@
+{
+    "display": {
+        "title": {
+            "text": "Sculk",
+            "color": "white"
+        },
+        "description": {
+            "text": "Sculk crafting recipes",
+            "color": "green"
+        },
+        "icon": {
+            "item": "minecraft:sculk_sensor"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "parent": "crafted_tweaks:crafting"
+}

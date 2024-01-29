@@ -1,15 +1,15 @@
 {
     "display": {
         "title": {
-            "text": "Deepslate as Stone.",
+            "text": "Craft Sculk",
             "color": "white"
         },
         "description": {
-            "text": "You can use Deepslate in recipes that normally require Stone",
+            "text": "You can craft Sculk related blocks",
             "color": "green"
         },
         "icon": {
-            "item": "minecraft:deepslate"
+            "item": "minecraft:sculk"
         },
         "frame": "task",
         "show_toast": false,
@@ -21,5 +21,5 @@
             "trigger": "minecraft:tick"
         }
     },
-    "parent": "crafted_tweaks:crafting"
+    "parent": "crafted_tweaks:crafting/sculk"
 }
