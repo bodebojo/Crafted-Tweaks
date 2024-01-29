@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "Bulk Blasting",
+            "text": "Burnt Food",
             "color": "white"
         },
         "description": {
-            "text": "You can smelt raw blocks in Blast Furnaces",
+            "text": "You can now burn food in a Blast Furnace",
             "color": "green"
         },
         "icon": {
