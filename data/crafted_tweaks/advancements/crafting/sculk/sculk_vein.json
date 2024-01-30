@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "Craft Sculk",
+            "text": "Sculk Vein",
             "color": "white"
         },
         "description": {
-            "text": "You can craft Sculk related blocks",
+            "text": "You can craft 9 Sculk Vein from Sculk",
             "color": "green"
         },
         "icon": {
