@@ -1,15 +1,15 @@
 {
     "display": {
         "title": {
-            "text": "Cobweb",
+            "text": "Amethyst Cluster",
             "color": "white"
         },
         "description": {
-            "text": "You can craft a amethyst crystal from 4 amethyst shards",
+            "text": "You can craft a amethyst cluster from 4 amethyst shards",
             "color": "green"
         },
         "icon": {
-            "item": "minecraft:amethyst_crystal"
+            "item": "minecraft:amethyst_cluster"
         },
         "frame": "task",
         "show_toast": false,
