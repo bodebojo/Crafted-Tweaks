@@ -9,7 +9,7 @@
             "color": "green"
         },
         "icon": {
-            "item": "minecraft:sculk"
+            "item": "minecraft:sculk_sensor"
         },
         "frame": "task",
         "show_toast": false,
