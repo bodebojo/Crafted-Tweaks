@@ -1,0 +1,25 @@
+{
+    "display": {
+        "title": {
+            "text": "Green Dye",
+            "color": "white"
+        },
+        "description": {
+            "text": "You can craft green dye from yellow and blue dye",
+            "color": "green"
+        },
+        "icon": {
+            "item": "minecraft:green_dye"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "parent": "crafted_tweaks:crafting/dye"
+}

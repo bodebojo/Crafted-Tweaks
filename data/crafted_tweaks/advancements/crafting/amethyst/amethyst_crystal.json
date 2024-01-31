@@ -1,0 +1,25 @@
+{
+    "display": {
+        "title": {
+            "text": "Cobweb",
+            "color": "white"
+        },
+        "description": {
+            "text": "You can craft a amethyst crystal from 4 amethyst shards",
+            "color": "green"
+        },
+        "icon": {
+            "item": "minecraft:amethyst_crystal"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "parent": "crafted_tweaks:crafting/amethyst"
+}

@@ -1,0 +1,25 @@
+{
+    "display": {
+        "title": {
+            "text": "Charcoal",
+            "color": "white"
+        },
+        "description": {
+            "text": "You can craft black dye from charcoal",
+            "color": "green"
+        },
+        "icon": {
+            "item": "minecraft:charcoal"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "parent": "crafted_tweaks:crafting/dye"
+}
