@@ -9,7 +9,7 @@
             "color": "green"
         },
         "icon": {
-            "item": "minecraft:grey_dye"
+            "item": "minecraft:gray_dye"
         },
         "frame": "task",
         "show_toast": false,
