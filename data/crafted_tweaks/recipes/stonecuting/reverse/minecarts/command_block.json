@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:command_block_minecart"
+    },
+    "result": "minecraft:command_block",
+    "count": 1
+}
