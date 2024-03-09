@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "Cobweb",
+            "text": "Dead Bush",
             "color": "white"
         },
         "description": {
-            "text": "You can craft cobwebs from 5 string",
+            "text": "You can craft deadbushes from any sapling",
             "color": "green"
         },
         "icon": {

@@ -1,15 +1,15 @@
 {
     "display": {
         "title": {
-            "text": "Cobweb",
+            "text": "Bundle",
             "color": "white"
         },
         "description": {
-            "text": "You can craft cobwebs from 5 string",
+            "text": "You can craft bundles with rabbit hide or leather",
             "color": "green"
         },
         "icon": {
-            "item": "minecraft:cobweb"
+            "item": "minecraft:bundle"
         },
         "frame": "task",
         "show_toast": false,

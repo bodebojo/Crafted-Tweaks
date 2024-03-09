@@ -1,15 +1,15 @@
 {
     "display": {
         "title": {
-            "text": "Cobweb",
+            "text": "Red Sand",
             "color": "white"
         },
         "description": {
-            "text": "You can craft cobwebs from 5 string",
+            "text": "You can craft red sand by combining red dye and sand",
             "color": "green"
         },
         "icon": {
-            "item": "minecraft:cobweb"
+            "item": "minecraft:red_sand"
         },
         "frame": "task",
         "show_toast": false,

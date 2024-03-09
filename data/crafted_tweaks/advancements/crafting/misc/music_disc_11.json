@@ -1,15 +1,15 @@
 {
     "display": {
         "title": {
-            "text": "Cobweb",
+            "text": "Music Disk 11",
             "color": "white"
         },
         "description": {
-            "text": "You can craft cobwebs from 5 string",
+            "text": "You can craft Music Disk 11 from 1 obsidian and 8 coal",
             "color": "green"
         },
         "icon": {
-            "item": "minecraft:cobweb"
+            "item": "minecraft:music_disc_11"
         },
         "frame": "task",
         "show_toast": false,

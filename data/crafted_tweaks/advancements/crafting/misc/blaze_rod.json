@@ -1,15 +1,15 @@
 {
     "display": {
         "title": {
-            "text": "Cobweb",
+            "text": "blaze Rod",
             "color": "white"
         },
         "description": {
-            "text": "You can craft cobwebs from 5 string",
+            "text": "You can craft blaze rods from 2 blaze powder",
             "color": "green"
         },
         "icon": {
-            "item": "minecraft:cobweb"
+            "item": "minecraft:blaze_rod"
         },
         "frame": "task",
         "show_toast": false,
