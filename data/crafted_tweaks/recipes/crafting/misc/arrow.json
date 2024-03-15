@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+      "s": {
+        "item": "minecraft:stick"
+      },
+      "i": {
+        "item": "minecraft:iron_nugget"
+      },
+      "f": {
+        "item": "minecraft:feather"
+      }
+    },
+    "pattern": [
+      "i",
+      "s",
+      "f"
+    ],
+    "result": {
+      "count": 4,
+      "item": "minecraft:arrow"
+    }
+  }
