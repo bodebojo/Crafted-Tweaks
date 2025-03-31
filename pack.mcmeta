@@ -1,6 +1,9 @@
 { 
     "pack": { 
-        "pack_format": 15, 
-        "description": "Crafted Tweaks." 
+        "pack_format": 71, 
+        "supported_formats": {
+            "min_inclusive": 71 , "max_inclusive": 71
+            }
+        "description": "A datapack that adds optional crafting recipes to fill in the holes left in Minecraft's crafting system." 
     } 
 } 
