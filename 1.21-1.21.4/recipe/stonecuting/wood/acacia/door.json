@@ -1,8 +1,0 @@
-{
-    "type": "minecraft:stonecutting",
-    "ingredient": {
-        "tag": "crafted_tweaks:stonecuttable/wood/acacia"
-    },
-    "result": "minecraft:acacia_door",
-    "count": 1
-}

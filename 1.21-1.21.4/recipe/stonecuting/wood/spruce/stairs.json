@@ -1,8 +1,0 @@
-{
-    "type": "minecraft:stonecutting",
-    "ingredient": {
-        "tag": "crafted_tweaks:stonecuttable/wood/spruce"
-    },
-    "result": "minecraft:spruce_stairs",
-    "count": 1
-}

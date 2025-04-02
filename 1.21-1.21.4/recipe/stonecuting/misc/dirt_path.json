@@ -1,8 +1,0 @@
-{
-    "type": "minecraft:stonecutting",
-    "ingredient": {
-        "item": "minecraft:grass_block"
-    },
-    "result": "minecraft:dirt_path",
-    "count": 1
-}
