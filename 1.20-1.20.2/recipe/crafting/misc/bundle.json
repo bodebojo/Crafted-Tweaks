@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "pattern": [
+        "sls",
+        "l l",
+        "lll"
+    ],
+    "key": {
+        "l": {
+            "tag": "crafted_tweaks:misc/bundle_crafting_materials"
+        },
+        "s": {
+            "item": "minecraft:string"
+        }
+    },
+    "result": {
+        "item": "minecraft:bundle",
+        "count": 1
+    }
+}

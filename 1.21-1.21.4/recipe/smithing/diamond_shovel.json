@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:diamond"
+  },
+  "base": {
+    "item": "minecraft:iron_shovel"
+  },
+  "result": {
+    "item": "minecraft:diamond_shovel"
+  },
+  "template": {
+    "tag": "minecraft:trim_templates"
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "crafted_tweaks:stonecuttable/wood/mangrove"
+    },
+    "result": "minecraft:mangrove_sign",
+    "count": 1
+}

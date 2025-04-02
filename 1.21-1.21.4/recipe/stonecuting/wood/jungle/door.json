@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "crafted_tweaks:stonecuttable/wood/jungle"
+    },
+    "result": "minecraft:jungle_door",
+    "count": 1
+}

@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "crafted_tweaks:stonecuttable/wood/warped"
+    },
+    "result": "minecraft:warped_fence_gate",
+    "count": 1
+}

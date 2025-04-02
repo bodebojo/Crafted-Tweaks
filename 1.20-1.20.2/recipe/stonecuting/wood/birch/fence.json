@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "tag": "crafted_tweaks:stonecuttable/wood/birch"
+    },
+    "result": "minecraft:birch_fence",
+    "count": 1
+}

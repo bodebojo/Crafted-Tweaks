@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ccc",
+        "coc",
+        "ccc"
+    ],
+    "key": {
+        "o": {
+            "item": "minecraft:obsidian"
+        },
+        "c": {
+            "item": "minecraft:coal"
+        }
+    },
+    "result": {
+        "item": "minecraft:music_disc_11",
+        "count": 1
+    }
+}
