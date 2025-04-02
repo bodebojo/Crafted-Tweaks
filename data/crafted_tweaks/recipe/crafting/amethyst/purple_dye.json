@@ -2,12 +2,12 @@
     "type": "minecraft:crafting_shapeless",
     "category": "misc",
     "ingredients": [
-        {
-            "item": "minecraft:amethyst_shard"
-        }
+        [
+            "minecraft:amethyst_shard"
+        ]
     ],
     "result": {
-        "item": "minecraft:purple_dye",
+        "id": "minecraft:purple_dye",
         "count": 1
     }
 }
