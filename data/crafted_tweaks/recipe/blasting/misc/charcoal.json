@@ -1,9 +1,9 @@
 {
     "type": "minecraft:blasting",
-    "ingredient": {
-        "tag": "crafted_tweaks:misc/charcoal_food"
+    "ingredient": "#crafted_tweaks:misc/charcoal_food",
+    "result": {
+        "id": "minecraft:charcoal"
     },
-    "result": "minecraft:charcoal",
     "experience": 0.1,
     "cookingtime": 100
 }

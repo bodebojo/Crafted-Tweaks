@@ -3,8 +3,8 @@
   "category": "blocks",
   "cookingtime": 100,
   "experience": 0.1,
-  "ingredient": {
-    "item": "minecraft:basalt"
-  },
-  "result": "minecraft:smooth_basalt"
+  "ingredient": "minecraft:basalt",
+  "result": {
+    "id": "minecraft:smooth_basalt"
+  }
 }
