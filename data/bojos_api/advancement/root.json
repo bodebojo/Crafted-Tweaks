@@ -1,0 +1,42 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:player_head",
+            "components": {
+                "minecraft:profile": {
+                    "properties": [
+                        {
+                            "name": "textures",
+                            "value": "e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTI3NzhhMmZjYjU3Y2UzNjEzODhlN2Y5Mjg1ZWU1YWYwOTU4MWU2NDIyZDFlOWE1YzUzZTYxMTIxMjQ3NDBmZCJ9fX0="
+                        }
+                    ]
+                }
+            }
+        },
+        "title": {
+            "translate": "advancements.bojos_api.root.title",
+            "fallback": "Bodebojo's Packs",
+            "color": "#ad0000",
+            "bold": true
+        },
+        "description": {
+            "translate": "advancements.bojos_api.root.description",
+            "fallback": "The list of all Bodebojo Datapacks currently installed!",
+            "color": "gray"
+        },
+        "background": "minecraft:block/deepslate",
+        "frame": "challenge",
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "criteria": {
+        "Install any datapack made by Bodebojo": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "requirements": [
+        [
+            "Install any datapack made by Bodebojo"
+        ]
+    ]
+}

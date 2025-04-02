@@ -1,25 +1,56 @@
 {
     "display": {
-        "title": {
-            "text": "Crafted Tweaks",
-            "color": "white"
-        },
-        "description": {
-            "text": "A datapack that adds optional crafting recipes to fill in the holes left in the Minecraft crafting system.",
-            "color": "gold"
-        },
         "icon": {
-            "item": "minecraft:crafting_table"
+            "id": "minecraft:crafting_table"
         },
-        "frame": "challenge",
+        "title": {
+            "translate": "advancements.crafted_tweaks.root.title",
+            "fallback": "Crafted Tweaks"
+        },
+        "frame": "goal",
+        "description": [
+            {
+                "text": "Version",
+                "extra": [
+                    " ",
+                    {
+                        "text": "2.3.0",
+                        "color": "red"
+                    }
+                ],
+                "color": "dark_gray"
+            },
+            "\n\n",
+            {
+                "translate": "advancements.crafted_tweaks.root.description",
+                "fallback": "A datapack that adds optional crafting recipes to fill in the holes left in Minecraft's crafting system.",
+                "color": "gray"
+            },
+            "\n\n",
+            {
+                "text": "By",
+                "extra": [
+                    " ",
+                    {
+                        "text": "Bodebojo & XtraDavido",
+                        "color": "red"
+                    }
+                ],
+                "color": "dark_gray"
+            }
+        ],
         "show_toast": false,
-        "announce_to_chat": false,
-        "hidden": false,
-        "background": "minecraft:textures/block/black_concrete.png"
+        "announce_to_chat": false
     },
     "criteria": {
-        "tick": {
+        "install the crafted_tweaks datapack": {
             "trigger": "minecraft:tick"
         }
-    }
+    },
+    "parent": "bojos_api:root",
+    "requirements": [
+        [
+            "install the crafted_tweaks datapack"
+        ]
+    ]
 }
