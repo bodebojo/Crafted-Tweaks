@@ -7,15 +7,15 @@
         "lll"
     ],
     "key": {
-        "l": {
-            "tag": "crafted_tweaks:misc/bundle_crafting_materials"
-        },
-        "s": {
-            "item": "minecraft:string"
-        }
+        "l": [
+            "crafted_tweaks:misc/bundle_crafting_materials"
+        ],
+        "s": [
+            "minecraft:string"
+        ]
     },
     "result": {
-        "item": "minecraft:bundle",
+        "id": "minecraft:bundle",
         "count": 1
     }
 }

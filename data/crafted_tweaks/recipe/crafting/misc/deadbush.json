@@ -2,12 +2,12 @@
     "type": "minecraft:crafting_shapeless",
     "category": "misc",
     "ingredients": [
-        {
-            "tag": "minecraft:saplings"
-        }
+        [
+            "minecraft:saplings"
+        ]
     ],
     "result": {
-        "item": "minecraft:dead_bush",
+        "id": "minecraft:dead_bush",
         "count": 1
     }
 }

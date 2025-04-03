@@ -7,12 +7,12 @@
         "s s"
     ],
     "key": {
-        "s": {
-            "item": "minecraft:string"
-        }
+        "s": [
+            "minecraft:string"
+        ]
     },
     "result": {
-        "item": "minecraft:cobweb",
+        "id": "minecraft:cobweb",
         "count": 1
     }
 }

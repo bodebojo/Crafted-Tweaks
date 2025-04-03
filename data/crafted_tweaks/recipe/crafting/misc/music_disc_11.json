@@ -6,15 +6,15 @@
         "ccc"
     ],
     "key": {
-        "o": {
-            "item": "minecraft:obsidian"
-        },
-        "c": {
-            "item": "minecraft:coal"
-        }
+        "o": [
+            "minecraft:obsidian"
+        ],
+        "c": [
+            "minecraft:coal"
+        ]
     },
     "result": {
-        "item": "minecraft:music_disc_11",
+        "id": "minecraft:music_disc_11",
         "count": 1
     }
 }
