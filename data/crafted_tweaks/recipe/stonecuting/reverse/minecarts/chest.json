@@ -1,8 +1,8 @@
 {
     "type": "minecraft:stonecutting",
-    "ingredient": {
-        "item": "minecraft:chest_minecart"
-    },
-    "result": "minecraft:chest",
-    "count": 1
+    "ingredient":  "minecraft:chest_minecart",
+    "result": {
+        "id": "minecraft:chest",
+        "count": 1
+    }
 }

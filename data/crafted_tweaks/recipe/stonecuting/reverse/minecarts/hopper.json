@@ -1,8 +1,8 @@
 {
     "type": "minecraft:stonecutting",
-    "ingredient": {
-        "item": "minecraft:hopper_minecart"
-    },
-    "result": "minecraft:hopper",
-    "count": 1
+    "ingredient": "minecraft:hopper_minecart",
+    "result": {
+        "id": "minecraft:hopper",
+        "count": 1
+    }
 }
