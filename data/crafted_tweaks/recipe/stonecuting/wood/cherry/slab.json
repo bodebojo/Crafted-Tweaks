@@ -1,8 +1,8 @@
 {
     "type": "minecraft:stonecutting",
-    "ingredient": {
-        "tag": "crafted_tweaks:stonecuttable/wood/cherry"
-    },
-    "result": "minecraft:cherry_slab",
-    "count": 1
+    "ingredient": "#crafted_tweaks:stonecuttable/wood/cherry",
+    "result": {
+        "id": "minecraft:cherry_slab",
+        "count": 1
+    }
 }
