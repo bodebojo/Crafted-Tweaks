@@ -1,8 +1,8 @@
 {
     "type": "minecraft:stonecutting",
-    "ingredient": {
-        "tag": "crafted_tweaks:stonecuttable/wood/birch"
-    },
-    "result": "minecraft:birch_door",
-    "count": 1
+    "ingredient": "#crafted_tweaks:stonecuttable/wood/birch",
+    "result": {
+        "id": "minecraft:birch_door",
+        "count": 1
+    }
 }
