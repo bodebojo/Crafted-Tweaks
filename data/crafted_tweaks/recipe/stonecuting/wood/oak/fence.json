@@ -1,8 +1,8 @@
 {
     "type": "minecraft:stonecutting",
-    "ingredient": {
-        "tag": "crafted_tweaks:stonecuttable/wood/oak"
-    },
-    "result": "minecraft:oak_fence",
-    "count": 1
+    "ingredient": "#crafted_tweaks:stonecuttable/wood/oak",
+    "result": {
+        "id": "minecraft:oak_fence",
+        "count": 1
+    }
 }
