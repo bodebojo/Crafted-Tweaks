@@ -7,15 +7,15 @@
         " s "
     ],
     "key": {
-        "b": {
-            "item": "minecraft:bone"
-        },
-        "s": {
-            "item": "minecraft:sculk"
-        }
+        "b": [
+            "minecraft:bone"
+        ],
+        "s": [
+            "minecraft:sculk"
+        ]
     },
     "result": {
-        "item": "minecraft:sculk_shrieker",
+        "id": "minecraft:sculk_shrieker",
         "count": 1
     }
 }

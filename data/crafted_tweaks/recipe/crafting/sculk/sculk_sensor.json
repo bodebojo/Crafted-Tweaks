@@ -7,15 +7,15 @@
         " S "
     ],
     "key": {
-        "s": {
-            "item": "minecraft:sculk_vein"
-        },
-        "S": {
-            "item": "minecraft:sculk"
-        }
+        "s": [
+            "minecraft:sculk_vein"
+        ],
+        "S": [
+            "minecraft:sculk"
+        ]
     },
     "result": {
-        "item": "minecraft:sculk_sensor",
+        "id": "minecraft:sculk_sensor",
         "count": 1
     }
 }

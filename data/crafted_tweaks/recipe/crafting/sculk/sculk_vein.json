@@ -2,12 +2,12 @@
     "type": "minecraft:crafting_shapeless",
     "category": "misc",
     "ingredients": [
-        {
-            "item": "minecraft:sculk"
-        }
+        [
+            "minecraft:sculk"
+        ]
     ],
     "result": {
-        "item": "minecraft:sculk_vein",
+        "id": "minecraft:sculk_vein",
         "count": 9
     }
 }
