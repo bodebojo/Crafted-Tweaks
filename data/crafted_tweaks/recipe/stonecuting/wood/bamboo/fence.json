@@ -1,8 +1,8 @@
 {
     "type": "minecraft:stonecutting",
-    "ingredient": {
-        "tag": "crafted_tweaks:stonecuttable/wood/bamboo"
-    },
-    "result": "minecraft:bamboo_fence",
-    "count": 1
+    "ingredient": "#crafted_tweaks:stonecuttable/wood/bamboo",
+    "result": {
+        "id": "minecraft:bamboo_fence",
+        "count": 1
+    }
 }
