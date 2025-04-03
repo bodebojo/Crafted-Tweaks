@@ -1,8 +1,8 @@
 {
     "type": "minecraft:stonecutting",
-    "ingredient": {
-        "item": "minecraft:sticky_piston"
-    },
-    "result": "minecraft:slime_ball",
-    "count": 1
+    "ingredient": "minecraft:sticky_piston",
+    "result": {
+        "id": "minecraft:slime_ball",
+        "count": 1
+    }
 }
