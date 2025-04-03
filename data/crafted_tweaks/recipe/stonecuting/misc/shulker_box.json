@@ -1,12 +1,8 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "ingredients": [
-        {
-            "tag": "crafted_tweaks:misc/shulkerboxes"
-        }
-    ],
+    "type": "minecraft:stonecutting",
+    "ingredient": "#crafted_tweaks:misc/shulkerboxes",
     "result": {
-        "item": "minecraft:shulker_box",
+        "id": "minecraft:shulker_box",
         "count": 1
     }
 }
