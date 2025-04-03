@@ -7,15 +7,11 @@
         "iii"
     ],
     "key": {
-        "c": {
-            "item": "minecraft:tnt"
-        },
-        "i": {
-            "item": "minecraft:iron_ingot"
-        }
+        "c": "minecraft:tnt",
+        "i": "minecraft:iron_ingot"
     },
     "result": {
-        "item": "minecraft:tnt_minecart",
+        "id": "minecraft:tnt_minecart",
         "count": 1
     }
 }
