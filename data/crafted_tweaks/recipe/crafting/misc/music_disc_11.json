@@ -3,15 +3,11 @@
     "pattern": [
         "ccc",
         "coc",
-        "ccc"
+        "ccc"   
     ],
     "key": {
-        "o": [
-            "minecraft:obsidian"
-        ],
-        "c": [
-            "minecraft:coal"
-        ]
+        "o": "minecraft:obsidian",
+        "c": "minecraft:coal"
     },
     "result": {
         "id": "minecraft:music_disc_11",
