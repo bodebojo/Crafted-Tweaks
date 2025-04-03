@@ -1,6 +1,6 @@
 {
     "type": "minecraft:stonecutting",
-    "ingredient": "crafted_tweaks:stonecuttable/wood/acacia",
+    "ingredient": "#crafted_tweaks:stonecuttable/wood/acacia",
     "result": {
         "id": "minecraft:acacia_stairs",
         "count": 1
